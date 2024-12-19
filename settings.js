@@ -17,9 +17,9 @@ global.SESSION_ID = process.env.SESSION_ID || '';
 
 global.botname = process.env.BOT_NAME || '𝗘𝗠𝗠𝗬_𝗛𝗘𝗡𝗭-𝗠𝗗';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '2349125042727'];
+global.ownernumber = [process.env.OWNER_NUMBER || '263716297291'];
 
-global.ownername = process.env.OWNER_NAME || '𝓚𝓘𝓝𝓖 EMMY HENZ';
+global.ownername = process.env.OWNER_NAME || 'TREVOUR TECH ';
 
 
 //~~~~~~<Website and Social Links>~~~~~~~~~~\\
